@@ -1,0 +1,14 @@
+Compiled lang -> go tool can run file directly w/o a vm
+used in system app, cloud infra
+doesnt use classes but uses struct
+no concept of overloading/overriding
+no try and catch
+lexer does most of the work
+
+
+5 reasons of why go?
+-> build time : imp for auto scaling proj due to less build times as code compiles to machine code and is v fast  
+-> fast startup :  
+-> perf and efficiency
+-> concurrency model
+-> static typing and compilation
