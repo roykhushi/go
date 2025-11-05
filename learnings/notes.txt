@@ -11,4 +11,18 @@ lexer does most of the work
 -> fast startup :  
 -> perf and efficiency
 -> concurrency model
--> static typing and compilation
+-> strongly typed and garbage collection
+
+steps
+
+go build <filepath>
+./<exec_name(main)>
+
+shortcut -> builds and runs the executable 
+go run <file_path> 
+
+data types
+1. int
+2. string
+3. boolean (bool)
+4. float 
