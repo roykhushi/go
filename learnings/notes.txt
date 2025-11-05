@@ -26,3 +26,13 @@ data types
 2. string
 3. boolean (bool)
 4. float 
+
+to use looping in GO => only for is used 
+
+infinite loop =>
+for{
+
+}
+go doesnt have ternary operator
+
+arrays in go are zero initialised for each type
